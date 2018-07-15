@@ -1,0 +1,7 @@
+Buatlah sebuah aplikasi requestor dengan layanan sebagai berikut :
+ - http://semarang.heritagejava.com/generatekategori.php
+ - http://semarang.heritagejava.com/generatexml.php
+ - http://semarang.heritagejava.com/generatexml.php?kategori=n (dimana n adalah angka dari 1-12)
+ Upload hasil aplikasi anda ke web hosting (boleh yang free atau yang berbayar)
+ Kirimkan url web aplikasi anda ke dbs@edu.unisbank.ac.id paling lambat 22 Juli 2018
+ Sertakan dalam email : nim, nama, kelompok, hari dan jam kuliah 
